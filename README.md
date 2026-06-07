@@ -22,9 +22,10 @@
 | 🩺 Diabetes Progression Predictor | Decision Tree Regression | [Open App](https://diabetes-progression-predictor-kzt8bjd4usmgjpeyjjavs4.streamlit.app/) |
 | 📰 Fake News Detector | Logistic Regression + TF-IDF | [Open App](https://fakenewsdetections-rbmkwetqlkkv65rrbah3gx.streamlit.app) |
 | 📉 Customer Churn Predictor | Random Forest Classifier | [Open App](https://churn-prediction-5bxuicahtvxazw7wihqsrg.streamlit.app/) |
+| 🌍 World Happiness Index | Data Visualization Dashboard | [Open App](https://worldhapppiness.streamlit.app/) |
 
 ## 📊 GitHub Stats
 ![Latika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Latika71&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/latika-chaudhary-74877325)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/latika-chaudhary-748773251)
