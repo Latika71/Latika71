@@ -69,16 +69,24 @@ I'm a final-year MCA student at **Lovely Professional University**, passionate a
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Latika71&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Latika71&theme=tokyonight&hide_border=true" width="47%" />
-</p>
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latika71&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+**AI/ML Intern — Excellence Technology, Chandigarh**
+`January 2026 – Present`
+- Working on real-world AI/ML projects in a professional environment
+- Gaining hands-on experience in model building, data preprocessing, and deployment
+- Collaborating on end-to-end machine learning pipelines
+
+---
+
+## 🌱 Currently Learning
+
+- 🧠 Deep Learning (CNNs, RNNs, Transformers)
+- 📝 Natural Language Processing (NLP)
+- ⚙️ MLOps & Model Deployment
+- 🔗 LangChain & LLM Applications
 
 ---
 
