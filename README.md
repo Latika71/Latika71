@@ -74,7 +74,7 @@ I'm a final-year MCA student at **Lovely Professional University**, passionate a
 ## 💼 Experience
 
 **AI/ML Intern — Excellence Technology, Chandigarh**
-`January 2025 – Present`
+`January 2026 – Present`
 - Working on real-world AI/ML projects in a professional environment
 - Gaining hands-on experience in model building, data preprocessing, and deployment
 - Collaborating on end-to-end machine learning pipelines
