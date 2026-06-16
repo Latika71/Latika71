@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/latika-chaudhary-748773251">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:latika71@example.com">
+  <a href="mailto:latikachaudhary4465@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Latika71&style=for-the-badge&color=blueviolet" />
@@ -74,7 +74,7 @@ I'm a final-year MCA student at **Lovely Professional University**, passionate a
 ## 💼 Experience
 
 **AI/ML Intern — Excellence Technology, Chandigarh**
-`January 2026 – Present`
+`January 2025 – Present`
 - Working on real-world AI/ML projects in a professional environment
 - Gaining hands-on experience in model building, data preprocessing, and deployment
 - Collaborating on end-to-end machine learning pipelines
