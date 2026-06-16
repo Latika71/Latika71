@@ -59,13 +59,13 @@ I'm a final-year MCA student at **Lovely Professional University**, passionate a
 
 ## 🚀 Featured Projects
 
-| # | Project | Description | Tech Used | Live |
-|---|---------|-------------|-----------|------|
-| 🐛 | **Bug Severity Predictor** | Full-stack ML app predicting software bug severity — FastAPI backend, JWT auth, PostgreSQL DB, deployed end-to-end | FastAPI · PostgreSQL · Streamlit · JWT | [Repo](https://github.com/latika71/bug-severity-predictor) |
-| 🩺 | **Diabetes Progression Predictor** | Regression model predicting diabetes progression score from clinical features | Decision Tree · Scikit-learn | [App](https://diabetes-progression-predictor-kzt8bjd4usmgjpeyjjavs4.streamlit.app/) |
-| 📰 | **Fake News Detector** | NLP classifier distinguishing real vs fake news articles using TF-IDF features | Logistic Regression · TF-IDF | [App](https://fakenewsdetections-rbmkwetqlkkv65rrbah3gx.streamlit.app) |
-| 📉 | **Customer Churn Predictor** | Ensemble model to identify customers likely to churn, with feature importance analysis | Random Forest · Streamlit | [App](https://churn-prediction-5bxuicahtvxazw7wihqsrg.streamlit.app/) |
-| 🌍 | **World Happiness Index** | Interactive visualization dashboard exploring global happiness trends | Pandas · Plotly · Streamlit | [App](https://worldhapppiness.streamlit.app/) |
+| # | Project | Description | Tech Used | Repo | Live App |
+|---|---------|-------------|-----------|------|----------|
+| 🐛 | **Bug Severity Predictor** | Full-stack ML app predicting software bug severity — FastAPI backend, JWT auth, PostgreSQL DB, deployed end-to-end | FastAPI · PostgreSQL · Streamlit · JWT | [Code](https://github.com/Latika71/bug-severity-predictor) | [App](https://bug-severity-predictor-jhbig6p4ztbgfd3vzzwql6.streamlit.app/) |
+| 🩺 | **Diabetes Progression Predictor** | Regression model predicting diabetes progression score from clinical features | Decision Tree · Scikit-learn | [Code](https://github.com/Latika71/Diabetes-progression-predictor) | [App](https://diabetes-progression-predictor-kzt8bjd4usmgjpeyjjavs4.streamlit.app/) |
+| 📰 | **Fake News Detector** | NLP classifier distinguishing real vs fake news articles using TF-IDF features | Logistic Regression · TF-IDF | [Code](https://github.com/Latika71/fake_news_detections) | [App](https://fakenewsdetections-rbmkwetqlkkv65rrbah3gx.streamlit.app) |
+| 📉 | **Customer Churn Predictor** | Ensemble model to identify customers likely to churn, with feature importance analysis | Random Forest · Streamlit | [Code](https://github.com/Latika71/Churn-prediction) | [App](https://churn-prediction-5bxuicahtvxazw7wihqsrg.streamlit.app/) |
+| 🌍 | **World Happiness Index** | Interactive visualization dashboard exploring global happiness trends | Pandas · Plotly · Streamlit | [Code](https://github.com/Latika71/worldhapp_eda) | [App](https://worldhapppiness.streamlit.app/) |
 
 ---
 
@@ -74,7 +74,7 @@ I'm a final-year MCA student at **Lovely Professional University**, passionate a
 ## 💼 Experience
 
 **AI/ML Intern — Excellence Technology, Chandigarh**
-`January 2026 – Present`
+`January 2025 – Present`
 - Working on real-world AI/ML projects in a professional environment
 - Gaining hands-on experience in model building, data preprocessing, and deployment
 - Collaborating on end-to-end machine learning pipelines
